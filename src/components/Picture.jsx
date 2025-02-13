@@ -9,13 +9,13 @@ function Picture() {
   const navigate = useNavigate();
 
   const pictures = [
-    { Image: foto5, title: 'Neng', description: ""},   
-    { Image: foto2, title: 'Princess', description: ""},
-    { Image: foto1, title: 'Cantik', description: ""},
-    { Image: foto3, title: 'Manies', description: ""},
-    { Image: foto4, title: 'Sayang', description: ""},
-    { Image: foto6, title: 'My love', description: ""},
-    { Image: foto7, title: 'Bby', description: ""},
+    { Image: foto5, title: 'Neng', description: "Panggilan pertama aku ke kamu, karna kamu sukak HEHE"},   
+    { Image: foto2, title: 'Princess', description: "Ini jelas karna, ya??? kamu memang princess!!"},
+    { Image: foto1, title: 'Cantik', description: "Bahkan ga perlu liatpun bisa tau"},
+    { Image: foto3, title: 'Manies', description: "Senyumnya mengandung gula??"},
+    { Image: foto4, title: 'Sayang', description: "HEHE"},
+    { Image: foto6, title: 'My love', description: "HEHEHEHEHEHEHEHEHE"},
+    { Image: foto7, title: 'Bby', description: "Ketularan, tapi ko seru?"},
 
 
 
