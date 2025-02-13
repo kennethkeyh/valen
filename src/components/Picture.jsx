@@ -9,8 +9,8 @@ function Picture() {
   const navigate = useNavigate();
 
   const pictures = [
-    { Image: foto1, title: 'September 3, 2024', description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error, possimus!"},   
-    { Image: foto2, title: 'September 3, 2024', description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error, possimus!"},
+    { Image: foto1, title: 'Neng', description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error, possimus!"},   
+    { Image: foto2, title: 'Princess', description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error, possimus!"},
 
   ]
   return (
