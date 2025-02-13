@@ -10,7 +10,7 @@ function Recap() {
     <div className="min-h-screen bg-black/20 flex flex-col items-center justify-center p-4">
     <div className="w-full max-w-sm sm:max-w-md text-center">
       <h1 className="text-2xl sm:text-4xl font-bold mb-8 text-white drop-shadow-lg">
-        Let's recap our time together
+        Hi, my Princess 👑
       </h1>
   
       <div className="flex flex-wrap justify-center gap-10 mb-12">
