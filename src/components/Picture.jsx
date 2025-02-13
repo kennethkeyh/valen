@@ -1,5 +1,5 @@
 import React from 'react'
-import { foto1,foto2 } from '../assets'
+import { foto1,foto2, foto5, foto4, foto6, foto7} from '../assets'
 import Carousel from './Carousel'
 import { ImageCard } from './ImageCard'
 import {ArrowLeft } from './icons'
@@ -9,8 +9,16 @@ function Picture() {
   const navigate = useNavigate();
 
   const pictures = [
-    { Image: foto1, title: 'Neng', description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error, possimus!"},   
-    { Image: foto2, title: 'Princess', description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error, possimus!"},
+    { Image: foto5, title: 'Neng', description: ""},   
+    { Image: foto2, title: 'Princess', description: ""},
+    { Image: foto1, title: 'Cantik', description: ""},
+    { Image: foto3, title: 'Manies', description: ""},
+    { Image: foto4, title: 'Sayang', description: ""},
+    { Image: foto6, title: 'My love', description: ""},
+    { Image: foto7, title: 'Bby', description: ""},
+
+
+
 
   ]
   return (
