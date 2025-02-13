@@ -38,9 +38,9 @@ function Music() {
       top: '75%',
     },
     {
-      title: "American Boy",
-      artist: "Estelle, Kanye West",
-      albumCover: kanye, 
+      title: "Yellow",
+      artist: "Coldplay",
+      albumCover: sparks, 
       left: '5%',
       top: '65%',
     },
