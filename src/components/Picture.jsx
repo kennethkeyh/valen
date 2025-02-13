@@ -1,5 +1,5 @@
 import React from 'react'
-import { foto1,foto2, foto5, foto4, foto6, foto7} from '../assets'
+import { foto1,foto2, foto5, foto4, foto6, foto7, foto3} from '../assets'
 import Carousel from './Carousel'
 import { ImageCard } from './ImageCard'
 import {ArrowLeft } from './icons'
